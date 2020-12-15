@@ -10,11 +10,11 @@ PHP写的仿某悬赏任务App，做好了客户不给钱，现在把代码开�
 
 #### 访问地址
 
-[手机端访问地址：https://m.task.kechuang.link](https://m.task.kechuang.link)
+[手机端访问地址：https://m.task.kechuang.link](https://m.task.kechuang.link/#/pages/index/index?share_code=X3YS75)
 
 [管理后台访问地址：https://task.kechuang.link/admin](https://task.kechuang.link/admin) 账户：demo888 密码：123456
 
 
 #### 更多
 
-    需要前端、App 源码加我微信 jackhe1688
+    前端、App 源码可以打包一份但不开源，需要加我微信 jackhe1688
