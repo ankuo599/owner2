@@ -10,7 +10,10 @@
 
 #### 访问地址
 
-[https://m.task.kechuang.link 注：最好在微信打开](https://m.task.kechuang.link)
+[手机端访问地址：https://m.task.kechuang.link](https://m.task.kechuang.link)
+
+[管理后台访问地址：https://task.kechuang.link/admin](https://task.kechuang.link/admin) 账户：demo888 密码：123456
+
 
 #### 更多
 
