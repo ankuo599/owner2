@@ -5,7 +5,6 @@
 
 #### 展示图片
 ![App首页](https://images.gitee.com/uploads/images/2020/1215/174924_121188a3_5096724.png "屏幕快照 2020-12-15 下午5.48.17.png")
-![活动页面](https://images.gitee.com/uploads/images/2020/1215/174950_41d7af8c_5096724.png "屏幕快照 2020-12-15 下午5.48.31.png")
 ![推广页面](https://images.gitee.com/uploads/images/2020/1215/175012_02039f9a_5096724.png "屏幕快照 2020-12-15 下午5.48.49.png")
 ![用户中心](https://images.gitee.com/uploads/images/2020/1215/175030_cb30f029_5096724.png "屏幕快照 2020-12-15 下午5.49.09.png")
 
@@ -13,3 +12,6 @@
 
 [访问地址 注：最好在微信打开](https://m.task.kechuang.link)
 
+#### 更多
+
+    需要前端、App 源码加我微信 jackhe1688
