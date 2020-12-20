@@ -62,6 +62,8 @@ class MeController
             throw new DbException('密码错误',40003);
         }
 
+        throw new DbException('修改失败：测试账号不允许修改',40003);
+
         try {
 
             //更新密码
@@ -122,6 +124,8 @@ class MeController
                 throw new DbException('新用户名已被占用',40003);
             }
         }
+
+        throw new DbException('修改失败：测试账号不允许修改',40003);
 
         try {
 
