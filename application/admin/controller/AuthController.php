@@ -67,7 +67,7 @@ class AuthController
             ->find();
 
         if(!$user){
-            return Responses::data(40003, '账号或密码错误',password_encrypt($password));
+            return Responses::data(40003, '账号或密码错误1',password_encrypt($password));
         }
 
         if($user['is_admin'] != 100){
